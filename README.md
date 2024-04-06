@@ -1,8 +1,9 @@
 # LDA Topic Modeling
 
-# BTS Fanfiction Analysis Repository
+This repository contains research and analysis of the data collected from Trump's and Sanders' tweets based on Macaulay (2019).
 
-This repository contains research and analysis on the impact of 'soft masculinity' as portrayed in fanfiction about the Korean boy band BTS, which represents a significant part of the fanfiction genre known as Real-Person Fiction (RPF).
+References: Macaulay, M. (2019). Bernie and the Donald: A comparison of Left-and Right-wing populist discourse. *Populist discourse: International perspectives*, 165-195.
+
 
 ## Repository Contents
 
